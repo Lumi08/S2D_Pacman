@@ -1,0 +1,69 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pacman-DESKTOP-QI9PA2J.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ghost.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message : see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         ]
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         with
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         [
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :             _Ty=S2D::Input::Keys
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         ]
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\Ghost.cpp(10,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\Ghost.cpp(80,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message : see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         ]
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         with
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         [
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :             _Ty=S2D::Input::Keys
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         ]
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MenuScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MenuScreen.h(38,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MenuScreen.h(38,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MenuScreen.h(48,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MenuScreen.h(48,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MenuScreen.h(73,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MapLoader.cpp
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MenuScreen.h(73,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message : see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         ]
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         with
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         [
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :             _Ty=S2D::Input::Keys
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\S2D\Input.h(108): message :         ]
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(64,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(65,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(76,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(76,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(86,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(86,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(97,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Pacman\MapLoader.cpp(97,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pacman.vcxproj -> C:\Users\rgold\OneDrive - Staffordshire University\Fundamentals of Game and Graphical System Development\Pacman V3\Debug\Pacman.exe
